@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Music-plear/static/css/main.e6c13ad2.css",
+    "main.js": "/Music-plear/static/js/main.6528f8dc.js",
+    "static/js/787.5d86c2a1.chunk.js": "/Music-plear/static/js/787.5d86c2a1.chunk.js",
+    "index.html": "/Music-plear/index.html",
+    "main.e6c13ad2.css.map": "/Music-plear/static/css/main.e6c13ad2.css.map",
+    "main.6528f8dc.js.map": "/Music-plear/static/js/main.6528f8dc.js.map",
+    "787.5d86c2a1.chunk.js.map": "/Music-plear/static/js/787.5d86c2a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6528f8dc.js"
+  ]
+}
